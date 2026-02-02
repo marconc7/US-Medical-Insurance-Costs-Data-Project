@@ -8,7 +8,7 @@ The primary goal was to build a robust analytical toolset using **pure Python** 
 ## 🎯 Research Questions
 The analysis seeks to answer the following questions:
 * What is the average age of the patients?
-* How is gender distributed within the dataset?
+* What is the gender distribution (male vs. female) in the dataset?
 * Which geographical regions are represented?
 * What is the smoking prevalence among patients?
 * What is the average annual insurance cost, and how does it differ for smokers?
@@ -49,7 +49,7 @@ Based on the analysis of `insurance.csv`, here are the key takeaways:
 
 * **Bias Analysis:** Investigate if certain regions are overrepresented or if age groups are skewed.
 
-* **Predictive Modeling:** Implement a basic linear regression to predict insurance costs based on BMI and age.
+* **Predictive Modeling:** Implement a multiple linear regression model to predict insurance costs based on BMI, age, sex, smoking status, geographical region and number of children.
 
 * **Dictionary Mapping:** Refactor the code to store patient data in a nested dictionary for more efficient querying.
 
