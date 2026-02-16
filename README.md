@@ -1,9 +1,9 @@
 # US Medical Insurance Cost Data Analysis
 
 ## 📌 Project Overview
-This project performs a comprehensive exploratory data analysis (EDA) on a dataset of U.S. Medical Insurance costs. As part of the **Codecademy Data Scientist: Machine Learning Career Path**, this analysis focuses on investigating patient demographics and identifying key factors that contribute to insurance premiums.
+This project performs a comprehensive exploratory data analysis (EDA) on a dataset of U.S. Medical Insurance Costs. As part of the **Codecademy Data Scientist: Machine Learning Career Path**, this analysis focuses on investigating patient demographics and identifying key factors that contribute to insurance premiums.
 
-The primary goal was to build a robust analytical toolset using **pure Python** (no external libraries like Pandas) to parse, clean, and analyze real-world data.
+The primary goal was to build a robust analytical toolset leveraging **Python's native data structures** (no external libraries like Pandas) to parse, clean, and analyze medical insurance costs in the US.
 
 ## 🎯 Research Questions
 The analysis seeks to answer the following questions:
